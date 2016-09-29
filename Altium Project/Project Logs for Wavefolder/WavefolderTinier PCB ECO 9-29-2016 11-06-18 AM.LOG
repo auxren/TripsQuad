@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=VCC Pin=C13-2
+Change Component Footprint: Designator=C13 Old Footprint=CAPC1812(4532)280_L New Footprint=NIC-CAPA2-4X5.8_V
+Added Pin To Net: NetName=VCC Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2

@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TripsQuad.PcbDoc   9/29/2016  11:49:25 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : TripsQuad.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             52        PTH        14.28inch (362.83mm)
+T2      30mil (0.762mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T3      32mil (0.8mm)                                             Round             12        PTH        5.59inch (142.05mm)
+T4      35mil (0.9mm)                                             Round             10        PTH        0.90inch (22.86mm)
+T5      39mil (1mm)                                               Round             12        PTH        2.21inch (56.08mm)
+T6      59mil (1.5mm)                                             Round             60        PTH        18.66inch (474.00mm)
+T7      87mil (2.2mm)                                             Round             8         PTH        2.65inch (67.43mm)
+T8      118mil (3mm)                                              Round             20        PTH        14.80inch (376.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              175
+
+Total Processing Time (hh:mm:ss) : 00:00:00

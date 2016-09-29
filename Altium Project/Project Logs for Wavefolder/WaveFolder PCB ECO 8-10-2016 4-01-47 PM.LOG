@@ -1,0 +1,205 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=C2-1
+Removed Pin From Net: NetName=NetC4_2 Pin=C6-2
+Removed Pin From Net: NetName=NetC1_1 Pin=C7-1
+Removed Pin From Net: NetName=NetC1_1 Pin=C8-1
+Removed Pin From Net: NetName=NetC4_2 Pin=C10-2
+Removed Pin From Net: NetName=NetC4_2 Pin=C12-2
+Removed Pin From Net: NetName=NetC1_1 Pin=D2-2
+Removed Pin From Net: NetName=NetC1_1 Pin=D6-1
+Removed Pin From Net: NetName=NetC4_2 Pin=D6-2
+Removed Pin From Net: NetName=NetC1_1 Pin=D9-2
+Removed Pin From Net: NetName=NetC1_1 Pin=D11-2
+Removed Pin From Net: NetName=NetC1_1 Pin=D13-1
+Removed Pin From Net: NetName=NetC4_2 Pin=D13-2
+Removed Pin From Net: NetName=NetC1_1 Pin=D14-1
+Removed Pin From Net: NetName=NetC4_2 Pin=D14-2
+Removed Pin From Net: NetName=NetD3_1 Pin=J1-3
+Removed Pin From Net: NetName=NetC3_1 Pin=J2-3
+Removed Pin From Net: NetName=NetD4_1 Pin=J3-3
+Removed Pin From Net: NetName=NetC5_1 Pin=J4-3
+Removed Pin From Net: NetName=NetC3_2 Pin=J5-3
+Removed Pin From Net: NetName=NetC5_2 Pin=J7-3
+Removed Pin From Net: NetName=NetD7_1 Pin=J9-3
+Removed Pin From Net: NetName=NetD8_1 Pin=J10-3
+Removed Pin From Net: NetName=NetD10_1 Pin=J11-3
+Removed Pin From Net: NetName=NetC9_1 Pin=J12-3
+Removed Pin From Net: NetName=NetD12_1 Pin=J13-3
+Removed Pin From Net: NetName=NetC11_1 Pin=J14-3
+Removed Pin From Net: NetName=NetC9_2 Pin=J15-3
+Removed Pin From Net: NetName=NetC11_2 Pin=J17-3
+Removed Pin From Net: NetName=NetD15_1 Pin=J19-3
+Removed Pin From Net: NetName=NetD16_1 Pin=J20-3
+Removed Pin From Net: NetName=NetC1_1 Pin=R3-1
+Removed Pin From Net: NetName=NetR1_2 Pin=R3-2
+Removed Pin From Net: NetName=NetC1_1 Pin=R4-2
+Removed Pin From Net: NetName=NetR1_2 Pin=R8-1
+Removed Pin From Net: NetName=NetC4_2 Pin=R14-2
+Removed Pin From Net: NetName=NetC1_1 Pin=R17-1
+Removed Pin From Net: NetName=NetR1_2 Pin=R17-2
+Removed Pin From Net: NetName=NetC1_1 Pin=R18-2
+Removed Pin From Net: NetName=NetC1_1 Pin=R20-1
+Removed Pin From Net: NetName=NetR1_2 Pin=R20-2
+Removed Pin From Net: NetName=NetC1_1 Pin=R21-2
+Removed Pin From Net: NetName=NetR1_2 Pin=R22-1
+Removed Pin From Net: NetName=NetR1_2 Pin=R25-1
+Removed Pin From Net: NetName=NetC4_2 Pin=R29-2
+Removed Pin From Net: NetName=NetC4_2 Pin=R31-2
+Removed Pin From Net: NetName=NetR1_2 Pin=VR2-1
+Removed Pin From Net: NetName=NetR1_2 Pin=VR3-1
+Removed Pin From Net: NetName=NetR1_2 Pin=VR4-1
+Change Component Footprint: Designator=C1 Old Footprint=CAPC0805(2012)75_N New Footprint=CAPC0805(2012)75_L
+Change Component Footprint: Designator=C2 Old Footprint=CAPC0805(2012)75_N New Footprint=CAPC0805(2012)75_L
+Change Component Footprint: Designator=C4 Old Footprint=CAPC0805(2012)75_N New Footprint=CAPC0805(2012)75_L
+Change Component Footprint: Designator=C6 Old Footprint=CAPC0805(2012)75_N New Footprint=CAPC0805(2012)75_L
+Change Component Footprint: Designator=C7 Old Footprint=CAPC0805(2012)75_N New Footprint=CAPC0805(2012)75_L
+Change Component Footprint: Designator=C8 Old Footprint=CAPC0805(2012)75_N New Footprint=CAPC0805(2012)75_L
+Change Component Footprint: Designator=C10 Old Footprint=CAPC0805(2012)75_N New Footprint=CAPC0805(2012)75_L
+Change Component Footprint: Designator=C12 Old Footprint=CAPC0805(2012)75_N New Footprint=CAPC0805(2012)75_L
+Change Component Footprint: Designator=C14 Old Footprint=CAPC0805(2012)75_N New Footprint=CAPC0805(2012)75_L
+Change Component Footprint: Designator=R1 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R2 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R3 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R4 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R9 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R10 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R11 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R12 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R13 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R14 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R17 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R18 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R20 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R21 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R24 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R26 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R27 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R28 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R29 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Footprint: Designator=R31 Old Footprint=RESC0805(2012)_N New Footprint=RESC0805(2012)_L
+Change Component Comment : Designator=R1 Old Comment=1M5 5% 0805(2012) New Comment=1M5
+Change Component Comment : Designator=R2 Old Comment=1M5 5% 0805(2012) New Comment=1M5
+Change Component Comment : Designator=R3 Old Comment=1M5 5% 0805(2012) New Comment=1M5
+Change Component Comment : Designator=R4 Old Comment=1M5 5% 0805(2012) New Comment=1M5
+Change Component Comment : Designator=R13 Old Comment=1M5 5% 0805(2012) New Comment=1M5
+Change Component Comment : Designator=R14 Old Comment=1M5 5% 0805(2012) New Comment=1M5
+Change Component Comment : Designator=R17 Old Comment=1M5 5% 0805(2012) New Comment=1M5
+Change Component Comment : Designator=R18 Old Comment=1M5 5% 0805(2012) New Comment=1M5
+Change Component Comment : Designator=R20 Old Comment=1M5 5% 0805(2012) New Comment=1M5
+Change Component Comment : Designator=R21 Old Comment=1M5 5% 0805(2012) New Comment=1M5
+Change Component Comment : Designator=R29 Old Comment=1M5 5% 0805(2012) New Comment=1M5
+Change Component Comment : Designator=R31 Old Comment=1M5 5% 0805(2012) New Comment=1M5
+Change Component Comment : Designator=R5 Old Comment=100K 5% 0805(2012) New Comment=100K
+Change Component Comment : Designator=R6 Old Comment=100K 5% 0805(2012) New Comment=100K
+Change Component Comment : Designator=R15 Old Comment=100K 5% 0805(2012) New Comment=100K
+Change Component Comment : Designator=R16 Old Comment=100K 5% 0805(2012) New Comment=100K
+Change Component Comment : Designator=R19 Old Comment=100K 5% 0805(2012) New Comment=100K
+Change Component Comment : Designator=R23 Old Comment=100K 5% 0805(2012) New Comment=100K
+Change Component Comment : Designator=R30 Old Comment=100K 5% 0805(2012) New Comment=100K
+Change Component Comment : Designator=R32 Old Comment=100K 5% 0805(2012) New Comment=100K
+Change Component Comment : Designator=R11 Old Comment=150K 5% 0805(2012) New Comment=150K
+Change Component Comment : Designator=R12 Old Comment=150K 5% 0805(2012) New Comment=150K
+Change Component Comment : Designator=R26 Old Comment=150K 5% 0805(2012) New Comment=150K
+Change Component Comment : Designator=R28 Old Comment=150K 5% 0805(2012) New Comment=150K
+Change Component Comment : Designator=R9 Old Comment=220K 5% 0805(2012) New Comment=220K
+Change Component Comment : Designator=R10 Old Comment=220K 5% 0805(2012) New Comment=220K
+Change Component Comment : Designator=R24 Old Comment=220K 5% 0805(2012) New Comment=220K
+Change Component Comment : Designator=R27 Old Comment=220K 5% 0805(2012) New Comment=220K
+Change Component Comment : Designator=R7 Old Comment=330R 5% 0805(2012) New Comment=330R
+Change Component Comment : Designator=R8 Old Comment=330R 5% 0805(2012) New Comment=330R
+Change Component Comment : Designator=R22 Old Comment=330R 5% 0805(2012) New Comment=330R
+Change Component Comment : Designator=R25 Old Comment=330R 5% 0805(2012) New Comment=330R
+Change Component Comment : Designator=VR1 Old Comment=3006P-7-502ZLF New Comment=20k
+Change Component Comment : Designator=VR2 Old Comment=3006P-7-502ZLF New Comment=20k
+Change Component Comment : Designator=VR3 Old Comment=3006P-7-502ZLF New Comment=20k
+Change Component Comment : Designator=VR4 Old Comment=3006P-7-502ZLF New Comment=20k
+Change Component Comment : Designator=C14 Old Comment=CAP 0.5pF 25V 0805(2012) New Comment=100nF
+Change Component Comment : Designator=C1 Old Comment=CAP 0.5pF 25V 0805(2012) New Comment=100pF
+Change Component Comment : Designator=C2 Old Comment=CAP 0.5pF 25V 0805(2012) New Comment=100pF
+Change Component Comment : Designator=C7 Old Comment=CAP 0.5pF 25V 0805(2012) New Comment=100pF
+Change Component Comment : Designator=C8 Old Comment=CAP 0.5pF 25V 0805(2012) New Comment=100pF
+Change Component Comment : Designator=C4 Old Comment=CAP 0.5pF 25V 0805(2012) New Comment=470nF
+Change Component Comment : Designator=C6 Old Comment=CAP 0.5pF 25V 0805(2012) New Comment=470nF
+Change Component Comment : Designator=C10 Old Comment=CAP 0.5pF 25V 0805(2012) New Comment=470nF
+Change Component Comment : Designator=C12 Old Comment=CAP 0.5pF 25V 0805(2012) New Comment=470nF
+Change Component Comment : Designator=C13 Old Comment=CAP 10uF 25V 1812(4532) New Comment=10uF
+Change Component Comment : Designator=C3 Old Comment=EEE-FT1E470AR New Comment=47uF
+Change Component Comment : Designator=C5 Old Comment=EEE-FT1E470AR New Comment=47uF
+Change Component Comment : Designator=C9 Old Comment=EEE-FT1E470AR New Comment=47uF
+Change Component Comment : Designator=C11 Old Comment=EEE-FT1E470AR New Comment=47uF
+Added Pin To Net: NetName=NetD3_1 Pin=J1-1
+Added Pin To Net: NetName=NetC3_1 Pin=J2-1
+Added Pin To Net: NetName=NetD4_1 Pin=J3-1
+Added Pin To Net: NetName=NetC5_1 Pin=J4-1
+Added Pin To Net: NetName=NetC3_2 Pin=J5-1
+Added Pin To Net: NetName=NetC5_2 Pin=J7-1
+Added Pin To Net: NetName=NetD7_1 Pin=J9-1
+Added Pin To Net: NetName=NetD8_1 Pin=J10-1
+Added Pin To Net: NetName=NetD10_1 Pin=J11-1
+Added Pin To Net: NetName=NetC9_1 Pin=J12-1
+Added Pin To Net: NetName=NetD12_1 Pin=J13-1
+Added Pin To Net: NetName=NetC11_1 Pin=J14-1
+Added Pin To Net: NetName=NetC9_2 Pin=J15-1
+Added Pin To Net: NetName=NetC11_2 Pin=J17-1
+Added Pin To Net: NetName=NetD15_1 Pin=J19-1
+Added Pin To Net: NetName=NetD16_1 Pin=J20-1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=D2-2
+Added Pin To Net: NetName=NetC2_1 Pin=D6-1
+Added Pin To Net: NetName=NetC2_1 Pin=R3-1
+Added Pin To Net: NetName=NetC2_1 Pin=R4-2
+Added Pin To Net: NetName=NetC2_1 Pin=U1-6
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=D6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R14-2
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=D9-2
+Added Pin To Net: NetName=NetC7_1 Pin=D13-1
+Added Pin To Net: NetName=NetC7_1 Pin=R17-1
+Added Pin To Net: NetName=NetC7_1 Pin=R18-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=D11-2
+Added Pin To Net: NetName=NetC8_1 Pin=D14-1
+Added Pin To Net: NetName=NetC8_1 Pin=R20-1
+Added Pin To Net: NetName=NetC8_1 Pin=R21-2
+Added Pin To Net: NetName=NetC8_1 Pin=U1-8
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=D13-2
+Added Pin To Net: NetName=NetC10_2 Pin=R29-2
+Added Pin To Net: NetName=NetC10_2 Pin=U1-12
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=D14-2
+Added Pin To Net: NetName=NetC12_2 Pin=R31-2
+Added Pin To Net: NetName=NetC12_2 Pin=U1-13
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=P1-1
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_1 Pin=P2-1
+Added Net: Name=NetJ8_1
+Added Pin To Net: NetName=NetJ16_1 Pin=J16-1
+Added Pin To Net: NetName=NetJ16_1 Pin=P3-1
+Added Net: Name=NetJ16_1
+Added Pin To Net: NetName=NetJ18_1 Pin=J18-1
+Added Pin To Net: NetName=NetJ18_1 Pin=P4-1
+Added Net: Name=NetJ18_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R8-1
+Added Pin To Net: NetName=NetR3_2 Pin=U1-5
+Added Pin To Net: NetName=NetR3_2 Pin=VR2-1
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=R22-1
+Added Pin To Net: NetName=NetR17_2 Pin=U1-10
+Added Pin To Net: NetName=NetR17_2 Pin=VR3-1
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR20_2 Pin=R25-1
+Added Pin To Net: NetName=NetR20_2 Pin=U1-9
+Added Pin To Net: NetName=NetR20_2 Pin=VR4-1
+Added Net: Name=NetR20_2

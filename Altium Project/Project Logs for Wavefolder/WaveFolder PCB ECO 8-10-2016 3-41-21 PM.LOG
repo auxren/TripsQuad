@@ -1,0 +1,37 @@
+Added Component: Designator=U1(LM3900)
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J11-1
+Added Pin To Net: NetName=GND Pin=J12-1
+Added Pin To Net: NetName=GND Pin=J13-1
+Added Pin To Net: NetName=GND Pin=J14-1
+Added Pin To Net: NetName=GND Pin=J15-1
+Added Pin To Net: NetName=GND Pin=J16-1
+Added Pin To Net: NetName=GND Pin=J17-1
+Added Pin To Net: NetName=GND Pin=J18-1
+Added Pin To Net: NetName=GND Pin=J19-1
+Added Pin To Net: NetName=GND Pin=J20-1
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Pin To Net: NetName=NetC4_2 Pin=U1-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-3
+Added Pin To Net: NetName=NetR1_2 Pin=U1-4
+Added Pin To Net: NetName=NetU1_5 Pin=U1-5
+Added Pin To Net: NetName=NetU1_6 Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Pin To Net: NetName=NetU1_9 Pin=U1-9
+Added Pin To Net: NetName=NetU1_10 Pin=U1-10
+Added Pin To Net: NetName=NetU1_11 Pin=U1-11
+Added Pin To Net: NetName=NetU1_12 Pin=U1-12
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Pin To Net: NetName=VCC Pin=U1-14
+Added Member To Class: ClassName=Wavefolder Member=Component U1 LM3900
+Added Room: Name=Wavefolder

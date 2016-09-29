@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C15 Old Footprint=CAPC0805(2012)100_L New Footprint=CAPC0805(2012)100_N
+Change Component Footprint: Designator=D17 Old Footprint=DIOD-SMC-2_V New Footprint=DIOD-SOD-123-2_V
+Change Component Footprint: Designator=D18 Old Footprint=DIOD-SMC-2_V New Footprint=DIOD-SOD-123-2_V
+Change Component Comment : Designator=D17 Old Comment=B530C-13-F New Comment=1N5819HW-7-F
+Change Component Comment : Designator=D18 Old Comment=B530C-13-F New Comment=1N5819HW-7-F
+Added Room: Name=Wavefolder
