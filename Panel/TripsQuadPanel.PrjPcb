@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for TripsQuadPanel
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -89,58 +89,140 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
-DocumentPath=TripsQuadIllustrator.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UHUDMBDK
-
-[Document5]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
-DocumentPath=Project Outputs for TripsQuadPanel\TripsQuadIllustrator.EXTREP
+DocumentPath=Project Outputs for TripsQuadPanel\ODB\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for TripsQuadPanel\TripsQuadIllustrator.GKO
+DocumentPath=Project Outputs for TripsQuadPanel\ODB\odb\steps\pcb\layers\bottomoverlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for TripsQuadPanel\TripsQuadIllustrator.GM1
+DocumentPath=Project Outputs for TripsQuadPanel\ODB\odb\steps\pcb\layers\bottompaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for TripsQuadPanel\TripsQuadIllustrator.REP
+DocumentPath=Project Outputs for TripsQuadPanel\ODB\odb\steps\pcb\layers\bottomsolder\features
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for TripsQuadPanel\TripsQuadIllustrator.RUL
+DocumentPath=Project Outputs for TripsQuadPanel\ODB\odb\steps\pcb\layers\keepout\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for TripsQuadPanel\ODB\odb\steps\pcb\layers\mechanical1\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for TripsQuadPanel\ODB\odb\steps\pcb\layers\rout\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for TripsQuadPanel\ODB\odb\steps\pcb\layers\top\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for TripsQuadPanel\ODB\odb\steps\pcb\layers\topoverlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for TripsQuadPanel\ODB\odb\steps\pcb\layers\toppaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for TripsQuadPanel\ODB\odb\steps\pcb\layers\topsolder\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for TripsQuadPanel\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for TripsQuadPanel\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for TripsQuadPanel\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for TripsQuadPanel\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for TripsQuadPanel\ODB\odb\steps\pcb\layers\rout\tools
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for TripsQuadPanel\NC Drill\TripsQuadPanel.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for TripsQuadPanel\Gerber\TripsQuadPanel.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for TripsQuadPanel\Gerber\TripsQuadPanel.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for TripsQuadPanel\Gerber\TripsQuadPanel.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for TripsQuadPanel\Gerber\TripsQuadPanel.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for TripsQuadPanel\Gerber\TripsQuadPanel.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for TripsQuadPanel\Gerber\TripsQuadPanel.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for TripsQuadPanel\Gerber\TripsQuadPanel.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for TripsQuadPanel\Gerber\TripsQuadPanel.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for TripsQuadPanel\Gerber\TripsQuadPanel.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for TripsQuadPanel\Gerber\TripsQuadPanel.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for TripsQuadPanel\Gerber\TripsQuadPanel.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for TripsQuadPanel\Gerber\TripsQuadPanel.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for TripsQuadPanel\Gerber\TripsQuadPanel.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for TripsQuadPanel\NC Drill\TripsQuadPanel.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for TripsQuadPanel\Gerber\TripsQuadPanel.REP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for TripsQuadPanel\ODB\TripsQuadPanel.REP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for TripsQuadPanel\Gerber\TripsQuadPanel.RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -189,7 +271,7 @@ SCH_HasExpandLogicalToPhysicalSheets=0
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for TripsQuadPanel
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
